@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Commit local");
         //PRIMERA REFACTORIZACION
-        
         //nuevo codigo que no tengo en el local
+        System.out.println("Nuevo commit");
     }
 }
